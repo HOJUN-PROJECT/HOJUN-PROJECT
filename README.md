@@ -76,4 +76,3 @@
 <h2>🏅 GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=HoJun&show_icons=true&theme=default"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoJun&layout=compact"/>
