@@ -39,28 +39,14 @@
 
 ---
 
-<h2>📌 Projects</h2>
+### 📌 Project Preview
+[Verilog] RISC-V Single Cycle & Multi Cycle CPU 설계
+[Verilog] AMBA BUS (APB & AXI) Protocol 설계
+[Verilog] OV7670을 이용한 NINJA FRUIT GAME
+[Verilog] UART / I2C / SPI 통신 Protocol 설계
+[Verilog] UART 기반 WATCH & DHT11 & SR04 설계
+[MCU] 안정성을 고려한 I2C KIT 제작 및 식물 재배 시스템
 
-<ul>
-  <li>
-    <b>YOLO 기반 영수증 인식 가계부 시스템</b><br>
-    - YOLO로 영수증 전체 감지 후 OCR 수행<br>
-    - GPT 기반 항목/금액/카테고리 자동 추출<br>
-    - Tkinter UI, 월별 소비 분석 및 시각화
-  </li>
-  <br>
-  <li>
-    <b>FPGA 파형 발생기</b><br>
-    - MATLAB에서 생성한 파형을 UART로 전송<br>
-    - Vivado + Verilog 기반 FPGA에서 파형 출력
-  </li>
-  <br>
-  <li>
-    <b>I2C Master Controller 설계</b><br>
-    - FSM 기반 I2C 프로토콜 구현<br>
-    - 타이밍, ACK, START/STOP 조건 검증 및 수정
-  </li>
-</ul>
 
 ---
 
