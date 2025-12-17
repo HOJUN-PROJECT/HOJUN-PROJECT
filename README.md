@@ -40,12 +40,15 @@
 ---
 
 ### 📌 Project Preview
+
+<pre>
 [Verilog] RISC-V Single Cycle & Multi Cycle CPU 설계
 [Verilog] AMBA BUS (APB & AXI) Protocol 설계
 [Verilog] OV7670을 이용한 NINJA FRUIT GAME
 [Verilog] UART / I2C / SPI 통신 Protocol 설계
 [Verilog] UART 기반 WATCH & DHT11 & SR04 설계
-[MCU] 안정성을 고려한 I2C KIT 제작 및 식물 재배 시스템
+[MCU]     안정성을 고려한 I2C KIT 제작 및 식물 재배 시스템
+</pre>
 
 
 ---
