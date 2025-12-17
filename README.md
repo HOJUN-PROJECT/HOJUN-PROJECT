@@ -36,6 +36,15 @@
   <img src="https://img.shields.io/badge/Vivado-000000?style=for-the-badge"/>
 </div>
 
+<h3>🧩 EDA Tools</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Synopsys-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Design_Compiler-4B4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Formality-2C2C2C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ICC2-3A3A3A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VCS-0066CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Verdi-228B22?style=for-the-badge"/>
+</div>
 
 ---
 
@@ -47,7 +56,7 @@
 [Verilog] OV7670을 이용한 Virtual Piano
 [Verilog] UART / I2C / SPI 통신 Protocol 설계
 [Verilog] UART 기반 WATCH & DHT11 & SR04 설계
-[Verilog] 비동기 FIFO을 이용한 CDC 설
+[Verilog] 비동기 FIFO을 이용한 CDC 설계
 </pre>
 
 
