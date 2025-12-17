@@ -11,6 +11,8 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+          <img height="30em" src="https://img.shields.io/badge/Verilog-F37626?style=flat&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/SystemVerilog-EE4C2C?style=flat&logoColor=white"/>
           </div>
     </div>
     <div style="text-align: left;">
