@@ -16,19 +16,26 @@
 <h2>🛠️ Tech Stacks</h2>
 
 <h3>🔧 Hardware</h3>
-<img src="https://img.shields.io/badge/Verilog-F37626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SystemVerilog-EE4C2C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA-5E5E5E?style=for-the-badge"/>
+<div align="left">
+  <img src="https://img.shields.io/badge/Verilog-F37626?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-EE4C2C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FPGA-5E5E5E?style=for-the-badge"/>
+</div>
 
 <h3>🧠 AI / Software</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+</div>
 
 <h3>🖥️ Environment</h3>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vivado-000000?style=for-the-badge"/>
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vivado-000000?style=for-the-badge"/>
+</div>
+
 
 ---
 
